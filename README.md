@@ -1,2 +1,2 @@
 # multi-venndor-backend
-Restful Apis using nodejs,mon
+Restful Apis using nodejs,mongodb
