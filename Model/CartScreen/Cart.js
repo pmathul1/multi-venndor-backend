@@ -3,10 +3,12 @@ const CartSchema=new Schema({
     Product_id:{type:String},
     Quantity:{
         type:String,
-        required:true
+        required: true,
+
     },
     User_id:{
-        type:String
+        type: String,
+        required: true
     }
 
 })
